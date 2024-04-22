@@ -22,4 +22,7 @@ class MataKuliah{
     string namamk;
     int sks;
     public:
+        void input(){
+            
+        }
 }
