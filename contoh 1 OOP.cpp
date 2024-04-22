@@ -29,6 +29,9 @@ class MataKuliah{
            cin >> namamk;
            cout << "SKS: ";
            cin >> sks;
+        }
 
+        void output(){
+            
         }
 }
