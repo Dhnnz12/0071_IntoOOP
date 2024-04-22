@@ -32,6 +32,7 @@ class MataKuliah{
         }
 
         void output(){
+            cout << "Kode MK: " << kodemk << endl;
             
         }
 }
