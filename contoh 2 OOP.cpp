@@ -10,6 +10,8 @@ class bangunDatar{
         float Luas;
 
         void input() {
-            
+
+           cout << "Masukan Panjangnya = ";
+           cin >> panjang; 
         }
 }
