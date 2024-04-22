@@ -27,7 +27,8 @@ class MataKuliah{
            cin >> kodemk;
            cout << "Nama MK: ";
            cin >> namamk;
-           
+           cout << "SKS: ";
+           cin >> sks;
 
         }
 }
