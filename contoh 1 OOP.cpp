@@ -34,6 +34,13 @@ class MataKuliah{
         void output(){
             cout << "Kode MK: " << kodemk << endl;
             cout << "Nama MK: " << namamk << endl;
-            
+            cout << "SKS: " << sks << endl;
         }
+};
+
+int main() {
+    Mahasiswa mhs;
+    Matakuliah mk;
+    
+
 }
