@@ -40,7 +40,11 @@ class MataKuliah{
 
 int main() {
     Mahasiswa mhs;
-    Matakuliah mk;
+    MataKuliah mk;
+
+    mhs.nama = "Budi";
+    mhs.umur = 20;
     
+
 
 }
