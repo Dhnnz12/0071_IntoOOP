@@ -16,6 +16,9 @@ class Mahasiswa{
 };
 
 
-class MataKuliah(
-    
-)
+class MataKuliah{
+    private:
+    string kodemk;
+    string namamk;
+    int sks;
+}
