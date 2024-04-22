@@ -9,9 +9,8 @@ class Mahasiswa{
 
             void output(){
                 cout << "Nama: "<< nama << endl;
-                cout << "Umur: "<< Umur << endl;
-                
-
+                cout << "Umur: "<< umur << endl;
+                cout << "Jurusan: " << jurusan << endl;
             }
 
 }
