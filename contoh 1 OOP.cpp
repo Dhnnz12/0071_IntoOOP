@@ -21,4 +21,5 @@ class MataKuliah{
     string kodemk;
     string namamk;
     int sks;
+    public:
 }
